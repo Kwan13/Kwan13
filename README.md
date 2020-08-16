@@ -24,6 +24,7 @@ Frontend Developer with a Bachelor's Degree in Computer Science passionate about
 🌱 I’m currently learning - TypeScript, React and NodeJs
 
 <br/>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kwan13)](https://github.com/anuraghazra/github-readme-stats)
 
 **Languages and Tools  :pushpin:**
