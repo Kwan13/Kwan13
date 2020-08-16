@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kawansilva)](https://www.linkedin.com/in/kawansilva) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)](https://api.whatsapp.com/send?phone=55+11+973714951&text=Hello!)
 
 
-Front-end developer with a bachelor's degree in computer science and passionate about web and mobile development.
+Frontend Developer with a Bachelor's Degree in Computer Science passionate about web and mobile development, I'm always looking for new knowledge and striving to be better than yesterday. :rocket:
+
+🌱 I’m currently learning - TypeScript, React and NodeJs
+
 <br/><br/>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kwan13)](https://github.com/anuraghazra/github-readme-stats)
 
