@@ -25,7 +25,13 @@ Frontend Developer with a Bachelor's Degree in Computer Science passionate about
 
 <br/>
 
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kwan13)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kwan13)](https://github.com/anuraghazra/github-readme-stats)
 
 **Languages and Tools  :pushpin:**
 
