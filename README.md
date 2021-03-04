@@ -19,10 +19,7 @@ Frontend Developer with a Bachelor's Degree in Computer Science passionate about
 
 
 #### Languages and Tools:
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&color=848484"/>
-<img src="https://img.shields.io/badge/Typescript-61DAFB?style=for-the-badge&logo=typescript&logoColor=fff&color=3178C6"/>
-<img src="https://img.shields.io/badge/javascript-61DAFB?style=for-the-badge&logo=javascript&logoColor=000&color=F7DF1E"/>
-<img src="https://img.shields.io/badge/node.js-61DAFB?style=for-the-badge&logo=node.js&logoColor=fff&color=339933"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&color=848484"/> <img src="https://img.shields.io/badge/Typescript-61DAFB?style=for-the-badge&logo=typescript&logoColor=fff&color=3178C6"/> <img src="https://img.shields.io/badge/javascript-61DAFB?style=for-the-badge&logo=javascript&logoColor=000&color=F7DF1E"/> <img src="https://img.shields.io/badge/node.js-61DAFB?style=for-the-badge&logo=node.js&logoColor=fff&color=339933"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=kwan13"/>
 
