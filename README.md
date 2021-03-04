@@ -1,10 +1,5 @@
 ## Hello, I'm Kawan :vulcan_salute:
 
-<p align="right">
-	<a href="">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/275px-Flag_of_Brazil.svg.png" width="30"/></a>
-</p>
-
 <p align="center">
 	<img src="https://media.giphy.com/media/yBvndlpq8aCvS/giphy.gif" width="400"/>
 	<br/>
@@ -24,9 +19,8 @@ Frontend Developer with a Bachelor's Degree in Computer Science passionate about
 
 
 #### Languages and Tools:
-	
-![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&color=848484) ![](https://img.shields.io/badge/Typescript-61DAFB?style=for-the-badge&logo=typescript&logoColor=fff&color=3178C6) ![](https://img.shields.io/badge/javascript-61DAFB?style=for-the-badge&logo=javascript&logoColor=000&color=F7DF1E) ![](https://img.shields.io/badge/node.js-61DAFB?style=for-the-badge&logo=node.js&logoColor=fff&color=339933)
-
-
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&color=848484"/><img src="https://img.shields.io/badge/Typescript-61DAFB?style=for-the-badge&logo=typescript&logoColor=fff&color=3178C6"/>
+<img src="https://img.shields.io/badge/javascript-61DAFB?style=for-the-badge&logo=javascript&logoColor=000&color=F7DF1E"/>
+<img src="https://img.shields.io/badge/node.js-61DAFB?style=for-the-badge&logo=node.js&logoColor=fff&color=339933"/>
 <img src="https://github-readme-stats.vercel.app/api?username=kwan13"/>
 
