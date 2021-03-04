@@ -1,42 +1,32 @@
-<!--
-### Hi there 👋
-**Kwan13/Kwan13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 ## Hello, I'm Kawan :vulcan_salute:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kawansilva)](https://www.linkedin.com/in/kawansilva) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)](https://api.whatsapp.com/send?phone=55+11+973714951&text=Hello!)
+
+<p align="right">
+	<a href="">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/275px-Flag_of_Brazil.svg.png" width="30"/></a>
+</p>
+
+<p align="center">
+	<img src="https://media.giphy.com/media/yBvndlpq8aCvS/giphy.gif" width="400"/>
+	<br/>
+	<a href="mailto:kawan-silva@outlook.com">
+	<img src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook"/></a>
+	<a href="https://api.whatsapp.com/send?phone=55+11+973714951&text=Hello!">
+	<img src="https://img.shields.io/badge/Whatsapp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
+	<a href="https://www.linkedin.com/in/kawansilva">
+	<img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin"/></a>
+</p>
+
+Frontend Developer with a Bachelor's Degree in Computer Science passionate about web and mobile development, I'm always looking for new knowledge and striving to be better than yesterday. 🚀 
+
+🌱 I’m currently learning: Typescript, React and NodeJS.
+
+<hr>
 
 
-Frontend Developer with a Bachelor's Degree in Computer Science passionate about web and mobile development, I'm always looking for new knowledge and striving to be better than yesterday. :rocket:
-
-🌱 I’m currently learning - TypeScript, React and NodeJs
-
-<br/>
+#### Languages and Tools:
+	
+![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&color=848484) ![](https://img.shields.io/badge/Typescript-61DAFB?style=for-the-badge&logo=typescript&logoColor=fff&color=3178C6) ![](https://img.shields.io/badge/javascript-61DAFB?style=for-the-badge&logo=javascript&logoColor=000&color=F7DF1E) ![](https://img.shields.io/badge/node.js-61DAFB?style=for-the-badge&logo=node.js&logoColor=fff&color=339933)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kwan13)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kwan13)](https://github.com/anuraghazra/github-readme-stats)
-
-**Languages and Tools  :pushpin:**
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="23"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="23">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="23">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="23">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="23">
+<img src="https://github-readme-stats.vercel.app/api?username=kwan13"/>
 
