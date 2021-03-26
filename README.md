@@ -1,7 +1,7 @@
 ## Hello, I'm Kawan :vulcan_salute:
 
 <p align="center">
-	<img src="https://media.giphy.com/media/yBvndlpq8aCvS/giphy.gif" width="400"/>
+	<!-- <img src="https://media.giphy.com/media/yBvndlpq8aCvS/giphy.gif" width="400"/>-->
 	<br/>
 	<a href="mailto:kawan-silva@outlook.com">
 	<img src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook"/></a>
